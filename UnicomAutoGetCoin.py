@@ -1,6 +1,6 @@
 
 # coding=utf-8
-# author:@QiuYueBai
+# author:@QiuYueBai.
 
 import http.cookiejar
 import json
